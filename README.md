@@ -1,5 +1,12 @@
 # Real-Time-Data-Analysis-for-Equity-Markets
 
+Technologies Used:
+* Pandas: Data Analysis
+* PyFiglet: Beautiful Fonts
+* smtplib: Sending Mails
+* Alpha Vantage: Free Stock API
+
+
 Real-Time-Data-Analysis-for-Equity-Markets is a command line application for Data Analysis on US based Stock Markets. 
 With the help of this app, we can carry out two tasks:
 1. Generate an excel sheet containing intra-day data for the stock
