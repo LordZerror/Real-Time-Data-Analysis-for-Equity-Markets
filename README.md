@@ -12,6 +12,7 @@ Thus, with the help of this application, it would be easier to help intra-day tr
 
 ### SENDING MAIL FOR A STOCK WHEN IT REACHES A CERTAIN VOLATILITY
 <img width="1072" alt="Screenshot 2022-09-05 at 10 13 43 PM" src="https://user-images.githubusercontent.com/89535024/188492804-7c9179d5-a850-4862-ae3d-dec1a24031ef.png">
+<img width="1116" alt="Screenshot 2022-09-05 at 10 13 57 PM" src="https://user-images.githubusercontent.com/89535024/188551829-84ea5947-b89a-40e7-ae9f-25c768d58ea3.png">
 
 ### EXITING THE APPLICATION
 <img width="1070" alt="Screenshot 2022-09-05 at 10 14 10 PM" src="https://user-images.githubusercontent.com/89535024/188494624-d6252479-d544-4c7c-b221-f226a3ddcebd.png">
